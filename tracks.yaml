@@ -1,4 +1,4 @@
-release_repo_url: git@github.com:revyos-ros/rqt_robot_steering-release
+release_repo_url: git@github.com:revyos-ros/rqt_robot_steering-release.git
 tracks:
   dashing:
     actions:
